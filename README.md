@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xMaciekMx (Maciej Mesjasz
+- 👀 I’m interested in cloud engineering, creating cloud architecture
+- 🌱 I’m currently learning for AWS Certified DevOps Engineer & Solutions Architect Professional
